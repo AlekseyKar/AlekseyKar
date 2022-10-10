@@ -9,4 +9,3 @@ I'll be happy to talk with you and tell you more about my experience. My additio
 
 Email: alekseykar92@gmail.com
 Telegram: @Aleks_Kar
-GitHub: https://github.com/AlekseyKar
