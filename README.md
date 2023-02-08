@@ -1,6 +1,6 @@
 ## Hi everyone!
 
-## My name is Aleks. I am a frontend developer.
+## My name is Aleks Kar. I am a frontend developer.
 
 During the last year, I've been developing various web-app using JS, React, Redux, NPM, Node.js, MongoDB, HTML, SCSS, Bootstrap, GitHub, Gulp.js.
 I am keen on studying new technologies, and lead an active and diverse lifestyle.
@@ -18,7 +18,6 @@ I am keen on studying new technologies, and lead an active and diverse lifestyle
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="linux" width="40" height="40"/></a> 
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="git" width="40" height="40"/></a>
 <br>
 
